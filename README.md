@@ -1,2 +1,2 @@
-# Korsak_Perm.github.io
+# Korsak_Perm
 Korsak Perm
